@@ -3,7 +3,6 @@ title: "Software Consultancy"
 description: "Turn ideas to Great products"
 slug: "magna"
 image: Software Consultancy.png
-description: "Lorem Etiam Nullam"
 keywords: ""
 categories: 
     - ""
