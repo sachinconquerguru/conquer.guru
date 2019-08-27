@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Our Services on conquer.guru</title>
+    <link>https://conquer.guru/blogs/</link>
+    <description>Recent content in Our Services on conquer.guru</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate>
+    
+	<atom:link href="https://conquer.guru/blogs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Software Development</title>
+      <link>https://conquer.guru/blogs/aliquam/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>https://conquer.guru/blogs/aliquam/</guid>
+      <description>Get new ideas to your customers fast, without compromising on security or reliability. How we develop ?
+We help our clients build innovative, data driven solutions that help them create more enduring customer relationships, and improve business efficiency. We use modern development methodologies including Lean, and Agile to accelerate delivery, and create value early.
+What&amp;rsquo;s our approach ?
+We help our clients express their project requirements clearly, and completely. We then help the make informed decisions about technologies, approach, and priorities.</description>
+    </item>
+    
+    <item>
+      <title>Coaching for students</title>
+      <link>https://conquer.guru/blogs/tempus/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
+      
+      <guid>https://conquer.guru/blogs/tempus/</guid>
+      <description>We are passionate about technology and teaching. That’s what we are doing at the moment and would love to do in the future too. We want to spread our knowledge to the world in it’s best form.
+We are committed towards coaching you to be successful.
+Reference letter from a reputed organization like us will give you credibility. We will give you the reference letter for the projects that you have completed and your contribution to that project.</description>
+    </item>
+    
+    <item>
+      <title>Software Consultancy</title>
+      <link>https://conquer.guru/blogs/magna/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
+      
+      <guid>https://conquer.guru/blogs/magna/</guid>
+      <description>Turn ideas to Great products
+Get new ideas to your customers fast, without compromising on security or reliability. Start up as a service ?
+Well, that’s simple. You have an idea and you are ready for a long battle. We have a settled hard working team with winning mentality, top-notch technical skills, DevOps, experience in UI/UX, Content and SMM. We have been trained for years to make attractive, functional and successful products from the first line of code to a dozens of everyday clients.</description>
+    </item>
+    
+    <item>
+      <title>virtual employees</title>
+      <link>https://conquer.guru/blogs/ipsum/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://conquer.guru/blogs/ipsum/</guid>
+      <description>Get new ideas to your customers fast, without compromising on security or reliability. How we develop ?
+We help our clients build innovative, data driven solutions that help them create more enduring customer relationships, and improve business efficiency. We use modern development methodologies including Lean, and Agile to accelerate delivery, and create value early.
+What&amp;rsquo;s our approach ?
+We help our clients express their project requirements clearly, and completely. We then help the make informed decisions about technologies, approach, and priorities.</description>
+    </item>
+    
+  </channel>
+</rss>
